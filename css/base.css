@@ -1,0 +1,44 @@
+.nav-link{
+    color: #ededed;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.nav-link:hover{
+    color: #ededed;
+    text-shadow: 1px 1px 5px #ededed31;
+    font-size: 18px;
+    transition: 0.2s;
+}
+
+.title-sections{
+    color: #3A0F78;
+    font-weight: 700;
+    margin-bottom: 60px;
+    font-size: 38px;
+    text-align: center;
+}
+
+
+/*footer*/ 
+
+footer h5{
+    color: white;
+}
+
+.section-footer li{
+    list-style: none;
+    text-align: start;
+    padding: 8px 0px 8px 0px;
+}
+
+.section-footer li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.section-footer li i{
+    color: white;
+    padding: 0px 10px 0px 0px;
+}
