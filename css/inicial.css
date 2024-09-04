@@ -1,3 +1,10 @@
+.title-sections{
+    color: #3A0F78;
+    font-weight: 700;
+    margin-bottom: 60px;
+    font-size: 38px;
+    text-align: center;
+}
 
 /*section 1*/
 
@@ -51,7 +58,7 @@
 .chamada-diferenciais{
     background-color: #3794BD;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 50px;
     padding: 10px;
     width: 430px;
     color: white;
