@@ -1,0 +1,75 @@
+.title-sections{
+    color: #3A0F78;
+    font-weight: 700;
+    margin-bottom: 60px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.title-sections > span{
+    color: #131313;
+    font-size: 24px;
+}
+
+.card{
+    max-width: 450px;
+    margin: 0px 20px;
+    padding: 40px;
+    border: 1px solid #3A0F78;
+}
+
+.card{
+    margin: 0px 20px;
+    padding: 30px;
+    box-shadow: 1px 1px 5px 1px #6a19dc2d;
+
+}
+
+.card:hover{
+    box-shadow: 2px 2px 20px 2px #6a19dc2d;
+
+}
+
+.card-title{
+    color: #3A0F78;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.btn-enviar-fb{
+    margin: auto;
+    display: flex;
+    padding: 8px 30px;
+    background-color: white;
+    color: #3A0F78;
+    font-weight: bold;
+    border: 1px solid #3A0F78;
+    box-shadow: 1px 1px 10px 1px #7d20ff17;
+    border-radius: 8px;
+}
+
+.btn-enviar-fb:hover{
+    background-color: #3A0F78;
+    color: white;
+    transition: 0.3s;
+}
+
+.input-group-text {
+    background-color: #ffffff;
+    border-radius: 5px 0px 0px 5px;
+    color: #696969;
+    padding: 6px 0px 6px 8px;
+}
+
+.title-sections-fb{
+    font-size: 25px !important; 
+    text-align: center;
+    color: #131313;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+
+.title-sections-fb > span{
+    color: #3794BD;
+}
