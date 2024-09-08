@@ -1,3 +1,16 @@
+
+.beneficios img :nth-child(2){
+    transition-delay: 500ms;
+}
+
+.beneficios img :nth-child(3){
+    transition-delay: 600ms;
+}
+
+.beneficios img:nth-child(4){
+    transition-delay: 7000ms;
+}
+
 .title-sections-fb{
     color: #131313;
     font-weight: 700;
