@@ -1,14 +1,14 @@
 
-.beneficios img :nth-child(2){
+.beneficios :nth-child(2){
     transition-delay: 500ms;
 }
 
-.beneficios img :nth-child(3){
+.beneficios :nth-child(3){
     transition-delay: 600ms;
 }
 
-.beneficios img:nth-child(4){
-    transition-delay: 7000ms;
+.beneficios :nth-child(4){
+    transition-delay: 700ms;
 }
 
 .title-sections-fb{

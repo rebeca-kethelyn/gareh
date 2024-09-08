@@ -1,13 +1,13 @@
-.diferenciais :nth-child(2){
+.diferenciais :nth-child(2), .etapas :nth-child(2), .accordion :nth-child(2){
     transition-delay: 500ms;
 }
 
-.diferenciais :nth-child(3){
+.diferenciais :nth-child(3), .etapas :nth-child(3), .accordion :nth-child(3){
     transition-delay: 700ms;
 }
 
 
-.diferenciais :nth-child(4){
+.diferenciais :nth-child(4), .etapas :nth-child(4), .accordion :nth-child(4){
     transition-delay: 500ms;
 }
 

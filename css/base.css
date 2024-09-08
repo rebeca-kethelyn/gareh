@@ -1,8 +1,23 @@
-.hidden{
+/**efeitos de scroll*/
+.hidden-left{
     opacity: 0;
     filter: blur(2px);
-    transform: translateX(-80%);
+    transform: translateX(-20%);
     transition: all 2s;
+}
+
+.hidden-right{
+    opacity: 0;
+    filter: blur(2px);
+    transform: translateX(20%);
+    transition: all 2s;
+}
+
+.hidden-top{
+    opacity: 0;
+    filter: blur(1px);
+    transform: translateY(20%);
+    transition: all 1s;
 }
 
 .show{
@@ -10,8 +25,12 @@
     filter: blur(0);
     transition: all 2s;
     transform: translateX(0);
+    transform: translateY(0);
+
 }
 
+
+/*nav header*/ 
 .nav-link{
     color: #ededed;
     font-size: 17px;
@@ -25,6 +44,25 @@
     transition: 0.2s;
 }
 
+/*efeito da imagem astronauta*/
+.img-astronauta{
+    transform: translateY(0px);
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float{
+    0%{
+        transform: translateY(0px);
+    }
+
+    50%{
+        transform: translateY(-20px);
+    }
+
+    100%{
+        transform: translateY(0px);
+    }
+}
 
 /*footer*/ 
 
