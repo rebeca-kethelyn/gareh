@@ -58,4 +58,18 @@
     color: #3794BD;
 }
 
+@media screen and (max-width: 992px) {
+    .cases{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .title-case{
+        text-align: center;
+    }
+
+    .container-case{
+        text-align: justify;
+    }
+}
 
