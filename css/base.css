@@ -1,4 +1,8 @@
 /**efeitos de scroll*/
+html, body {
+    overflow-x: hidden;
+}
+
 .hidden-left{
     opacity: 0;
     filter: blur(2px);
