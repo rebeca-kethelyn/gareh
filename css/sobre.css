@@ -81,4 +81,8 @@
         flex-direction: column-reverse;
         margin: auto;
     }
+
+    .container-sobre p{
+        text-align: justify;
+    }
 }
