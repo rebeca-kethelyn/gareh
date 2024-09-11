@@ -73,3 +73,42 @@
 .title-sections-fb > span{
     color: #3794BD;
 }
+
+/*Sessão 3*/ 
+
+.section-2{
+    background-color: #3A0F78; 
+    margin-top: 100px;
+    padding: 80px 0px;
+}
+
+.title-sections-fr{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    padding: 0px 0px 20px;
+}
+
+.title-h2-solucoes{
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.p-motivos{
+    color: white;
+    
+
+}
+
+.motivos{
+    border: 1px solid white;
+    margin-left: 2px;
+    padding: 20px 10px !important;
+    border-radius: 8px;
+}
+
+.motivos img{
+    align-self: center;
+}
