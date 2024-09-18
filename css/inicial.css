@@ -15,6 +15,10 @@
     transition-delay: 1000ms;
 }
 
+.accordion :nth-child(6){
+    transition-delay: 1000ms;
+}
+
 .title-sections{
     color: #3A0F78;
     font-weight: 700;
