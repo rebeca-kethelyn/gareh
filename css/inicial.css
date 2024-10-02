@@ -78,14 +78,15 @@
 
 .chamada-diferenciais{
     background-color: #3794BD;
-    margin: auto;
-    margin-top: 50px;
+    margin:auto;
     padding: 10px;
     width: 430px;
     color: #ffffff;
     border: none;
     border-radius: 10px;
     font-weight: bold;
+    display: flex;
+    justify-content: center;
 }
 
 .chamada-diferenciais:hover{
