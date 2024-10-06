@@ -7,14 +7,14 @@ html, body {
     opacity: 0;
     filter: blur(2px);
     transform: translateX(-20%);
-    transition: all 2s;
+    transition: all 1s;
 }
 
 .hidden-right{
     opacity: 0;
     filter: blur(2px);
     transform: translateX(20%);
-    transition: all 2s;
+    transition: all 1s;
 }
 
 .hidden-top{
@@ -27,7 +27,7 @@ html, body {
 .show{
     opacity: 1;
     filter: blur(0);
-    transition: all 2s;
+    transition: all 1s;
     transform: translateX(0);
     transform: translateY(0);
 
